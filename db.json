@@ -1,14 +1,58 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Users": [
+    {
+      "name": "Abhishek",
+      "country": "India",
+      "email": "abhi@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Mohan",
+      "country": "US",
+      "email": "mohan@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Rozer",
+      "country": "India",
+      "email": "rozerc@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Aishwarya",
+      "country": "US",
+      "email": "aish@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Roy",
+      "country": "India",
+      "email": "roy@gmail.com",
+      "id": "5"
+    },
+    {
+      "name": "Venkatesh",
+      "country": "India",
+      "email": "venkatesh@gmail.com",
+      "id": "6"
+    },
+    {
+      "name": "Manish",
+      "country": "India",
+      "email": "manish@gmail.com",
+      "id": "7"
+    },
+    {
+      "name": "Manuraj",
+      "country": "India",
+      "email": "manuraj@gmail.com",
+      "id": "8"
+    },
+    {
+      "name": "vijay",
+      "country": "India",
+      "email": "vijay@gmail.com",
+      "id": "9"
+    }
+  ]
 }
